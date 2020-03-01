@@ -1,0 +1,81 @@
+{
+    "nodeType": 1,
+    "tagName": "ul",
+    "attributes": [
+        [
+            "class",
+            "nav"
+        ]
+    ],
+    "childNodes": [
+        {
+            "nodeType": 3,
+            "nodeName": "#text",
+            "nodeValue": "\n        "
+        },
+        {
+            "nodeType": 1,
+            "tagName": "li",
+            "childNodes": [
+                {
+                    "nodeType": 3,
+                    "nodeName": "#text",
+                    "nodeValue": "One"
+                }
+            ]
+        },
+        {
+            "nodeType": 3,
+            "nodeName": "#text",
+            "nodeValue": "\n        "
+        },
+        {
+            "nodeType": 1,
+            "tagName": "li",
+            "childNodes": [
+                {
+                    "nodeType": 3,
+                    "nodeName": "#text",
+                    "nodeValue": "Two"
+                }
+            ]
+        },
+        {
+            "nodeType": 3,
+            "nodeName": "#text",
+            "nodeValue": "\n        "
+        },
+        {
+            "nodeType": 1,
+            "tagName": "li",
+            "childNodes": [
+                {
+                    "nodeType": 3,
+                    "nodeName": "#text",
+                    "nodeValue": "Three"
+                }
+            ]
+        },
+        {
+            "nodeType": 3,
+            "nodeName": "#text",
+            "nodeValue": "\n        "
+        },
+        {
+            "nodeType": 1,
+            "tagName": "li",
+            "childNodes": [
+                {
+                    "nodeType": 3,
+                    "nodeName": "#text",
+                    "nodeValue": "Fourth"
+                }
+            ]
+        },
+        {
+            "nodeType": 3,
+            "nodeName": "#text",
+            "nodeValue": "\n    "
+        }
+    ]
+}
